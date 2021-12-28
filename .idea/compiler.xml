@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-classes-java.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-generated-sources-annotationProcessor-java.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-generated-sources-headers-java.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-reports-tests.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-test-results.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-tmp.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Topics-Defining_classes-Inner_boxes.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Topics-Defining_classes-Theory.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Topics-Getting_data_from_REST-Add_annotations.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Topics-Getting_data_from_REST-Getting_all_tasks.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Topics-Getting_data_from_REST-Retrieving_specific_task.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Topics-Getting_data_from_REST-Return_big_JSON.main" target="15" />
+      <module name="Cinema_Room_REST_Service.Topics-Getting_data_from_REST-Theory.main" target="15" />
+      <module name="Cinema_Room_REST_Service.util.main" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
